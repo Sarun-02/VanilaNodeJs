@@ -1,0 +1,24 @@
+{
+  "name": "crud-using-vanila-node-js-with-json-data",
+  "version": "1.0.0",
+  "description": "CRUD APIS USING VANILA NODE JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:local": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarun-02/VanilaNodeJs.git"
+  },
+  "author": "Arun Prabu S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarun-02/VanilaNodeJs/issues"
+  },
+  "homepage": "https://github.com/Sarun-02/VanilaNodeJs#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
